@@ -1,0 +1,1 @@
+This is my first git project! This will be the beginning of my journey through The Odin Project course
